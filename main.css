@@ -729,7 +729,7 @@ html{
 
 
 .main2{
-    background-image: url(media/images/dog_about.jpg);
+    background-image: url(dog_about.jpg);
     height: 400px;
     width: 100%;
     background-size: cover;
